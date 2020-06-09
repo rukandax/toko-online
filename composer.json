@@ -1,0 +1,14 @@
+{
+    "name": "rukandax/toko-online",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Rukanda Faridsi",
+            "email": "hey@rukanda.xyz"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.0",
+        "robmorgan/phinx": "^0.12.1"
+    }
+}
