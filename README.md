@@ -4,7 +4,6 @@
 
 - PHP - Developed on v7.1
 - [Composer](https://getcomposer.org/) for Dependencies Management
-- [Phinx](https://phinx.org/) for Database Migration
 
 ## Configuration
 
